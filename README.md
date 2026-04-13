@@ -69,11 +69,11 @@ Deep evaluation using **ROC-AUC**, **Precision-Recall curves**, and **Confusion 
 
 ### **2. The Interactive Dashboard**
 The command `python main.py --dashboard` launches this professional workspace.
-![Dashboard UI Placeholder](images/dashboard_demo.png)
+
 
 ### **B. Clinical Diagnostic Report**
 Generated automatically during prediction. This is what a doctor would view.
-![Clinical Report Placeholder](images/clinical_report_sample.png)
+![Clinical Report Placeholder](outputs/clinical_report.png)
 
 ### **C. Diagnostic Heatmaps (Grad-CAM)**
 Visual proof of AI focus areas on real patient scans.

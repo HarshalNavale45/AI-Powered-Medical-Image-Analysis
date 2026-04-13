@@ -17,7 +17,7 @@ __pycache__/
 data/
 models/*.h5
 models/*.keras
-outputs/
+
 
 # VS Code / IDEs
 .vscode/
